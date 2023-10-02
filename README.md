@@ -1,3 +1,5 @@
 # Test
-def area_of_rectangle(length, breadth)
-return(area_of_
+
+def area_of_rectangle(length, width)
+area = length * width
+
